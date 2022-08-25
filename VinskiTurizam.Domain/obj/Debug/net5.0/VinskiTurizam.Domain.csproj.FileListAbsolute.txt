@@ -1,0 +1,15 @@
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\bin\Debug\net5.0\VinskiTurizam.Domain.deps.json
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\bin\Debug\net5.0\VinskiTurizam.Domain.runtimeconfig.json
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\bin\Debug\net5.0\VinskiTurizam.Domain.runtimeconfig.dev.json
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\bin\Debug\net5.0\VinskiTurizam.Domain.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\bin\Debug\net5.0\VinskiTurizam.Domain.pdb
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\obj\Debug\net5.0\VinskiTurizam.Domain.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\obj\Debug\net5.0\VinskiTurizam.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\obj\Debug\net5.0\VinskiTurizam.Domain.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\obj\Debug\net5.0\VinskiTurizam.Domain.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\obj\Debug\net5.0\VinskiTurizam.Domain.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\obj\Debug\net5.0\VinskiTurizam.Domain.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\obj\Debug\net5.0\refint\VinskiTurizam.Domain.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\obj\Debug\net5.0\VinskiTurizam.Domain.pdb
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\obj\Debug\net5.0\VinskiTurizam.Domain.genruntimeconfig.cache
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.Domain\obj\Debug\net5.0\ref\VinskiTurizam.Domain.dll
