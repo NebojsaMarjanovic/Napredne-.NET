@@ -1,0 +1,15 @@
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\bin\Debug\net5.0\VinskiTurizam.Repository.deps.json
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\bin\Debug\net5.0\VinskiTurizam.Repository.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\bin\Debug\net5.0\VinskiTurizam.Repository.pdb
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\bin\Debug\net5.0\VinskiTurizam.Domain.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\bin\Debug\net5.0\VinskiTurizam.Domain.pdb
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\obj\Debug\net5.0\VinskiTurizam.Repository.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\obj\Debug\net5.0\VinskiTurizam.Repository.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\obj\Debug\net5.0\VinskiTurizam.Repository.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\obj\Debug\net5.0\VinskiTurizam.Repository.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\obj\Debug\net5.0\VinskiTurizam.Repository.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\obj\Debug\net5.0\VinskiTurizam.Repository.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\obj\Debug\net5.0\VinskiTurizam.Repository.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\obj\Debug\net5.0\refint\VinskiTurizam.Repository.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\obj\Debug\net5.0\VinskiTurizam.Repository.pdb
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizamRepository\obj\Debug\net5.0\ref\VinskiTurizam.Repository.dll

@@ -1,0 +1,17 @@
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\bin\Debug\net5.0\VinskiTurizam.BusinessLogic.deps.json
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\bin\Debug\net5.0\VinskiTurizam.BusinessLogic.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\bin\Debug\net5.0\VinskiTurizam.BusinessLogic.pdb
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\bin\Debug\net5.0\VinskiTurizam.Domain.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\bin\Debug\net5.0\VinskiTurizam.Repository.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\bin\Debug\net5.0\VinskiTurizam.Domain.pdb
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\bin\Debug\net5.0\VinskiTurizam.Repository.pdb
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\obj\Debug\net5.0\VinskiTurizam.BusinessLogic.csproj.AssemblyReference.cache
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\obj\Debug\net5.0\VinskiTurizam.BusinessLogic.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\obj\Debug\net5.0\VinskiTurizam.BusinessLogic.AssemblyInfoInputs.cache
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\obj\Debug\net5.0\VinskiTurizam.BusinessLogic.AssemblyInfo.cs
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\obj\Debug\net5.0\VinskiTurizam.BusinessLogic.csproj.CoreCompileInputs.cache
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\obj\Debug\net5.0\VinskiTurizam.BusinessLogic.csproj.CopyComplete
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\obj\Debug\net5.0\VinskiTurizam.BusinessLogic.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\obj\Debug\net5.0\refint\VinskiTurizam.BusinessLogic.dll
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\obj\Debug\net5.0\VinskiTurizam.BusinessLogic.pdb
+C:\Users\Korisnik\source\repos\VinskiTurizam\VinskiTurizam.BusinessLogic\obj\Debug\net5.0\ref\VinskiTurizam.BusinessLogic.dll
